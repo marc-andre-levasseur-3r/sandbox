@@ -20,7 +20,7 @@ COPY . .
 RUN go build -o main .
 
 # Expose port 8080 to the outside world
-EXPOSE 8082
+EXPOSE 6739
 
 # Command to run the executable
 CMD ["./main"]
