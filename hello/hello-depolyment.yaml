@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: hello-container
-        image: pacman678/hello:firsttry
+        image: localhost:32000/hello:0.1
         resources:
           requests:
             cpu: 100m
