@@ -1,4 +1,6 @@
 # sandbox
 sandbox
 
-Hello world microservice in go with docker + kube configurations
+simple-data is a poc microservice for access database
+
+postgres is deployment example for postgres database
